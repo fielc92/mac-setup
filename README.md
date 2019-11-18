@@ -29,6 +29,12 @@ template](https://github.com/sb2nov/mac-setup/blob/master/.github/CONTRIBUTION_T
 **We're looking for more contributors to maintain and extend the
 documentation.**
 
+# TODO for P45 setup:
+- [ ] Mention disc encription settings
+- [ ] Remove antivirus stuff
+- [ ] Add [asdf](https://github.com/asdf-vm/asdf)
+- [ ] Mention [Atom](https://atom.io/packages/atom-terminal) with useful packages
+
 -------------------------------------------------------------------------------
 
 This guide is [MIT
